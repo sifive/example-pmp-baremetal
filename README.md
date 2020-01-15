@@ -1,2 +1,2 @@
-# example-pmp-baremetal
-Example on how to program Physical Memory Protection Regions 
+# pmp-baremetal
+A low level example on how to use Physical Memory Protection (PMP) to prevent access to a memory location. 
